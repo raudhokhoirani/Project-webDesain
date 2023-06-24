@@ -17,16 +17,4 @@ div class="container">
                 <li><a href="a">Javascript</a></li>
             </ul>
         </div>
-.container{
-    background-color: white;
-    width: 100%;
-    margin: auto;
-}
-.header{
-    background-color:aqua;
-    color: black;
-            padding: 10px;
-            text-align: center;
-            height: 75px;
-           
-}
+<h2>foto</h2>
