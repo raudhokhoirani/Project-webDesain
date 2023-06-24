@@ -7,3 +7,13 @@
     <title>Document</title>
 </head>
 <body>
+div class="container">
+        <div class="header"><h1>Web Programming Kaputama</h1></div>
+        <div class="navbar">
+            <ul>
+                <li><a class="active" href="a">Home</a></li>
+                <li><a href="a">HTML</a></li>
+                <li><a href="a">CSS</a></li>
+                <li><a href="a">Javascript</a></li>
+            </ul>
+        </div>
